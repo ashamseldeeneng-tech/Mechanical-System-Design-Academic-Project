@@ -27,6 +27,11 @@ The project translates engineering requirements into practical and realistic des
 ## Notes
 This project was completed for academic and educational purposes as part of a final-year mechanical engineering course.
 
+## Project Report (PDF)
+
+📄 [View Full Project Report](https://github.com/ashamseldeeneng-tech/Mechanical-System-Design-Academic-Project/blob/main/Report/Combined%20Hip-Knee%20Rehabilitation%20Robot%20Design.pdf)
+
+
 ## Project Images
 ![Calculation Step 1](Images/image1.jpg)
 ![Calculation Step 2](Images/image2.jpg)
